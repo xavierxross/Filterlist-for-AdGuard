@@ -69,6 +69,8 @@
 @@||img-prod-cms-rt-microsoft-com.akamaized.net^$important
 @@||img.youtube.com^$important
 @@||inoreader.com^$important
+@@||intel.com^$important
+@@||intel.com.au^$important
 @@||ipv6check-http.steamcontent.com^$important
 @@||ir.ebaystatic.com^$important
 @@||keep2share.cc^$important
