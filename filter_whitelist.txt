@@ -4,6 +4,7 @@
 @@||0xxx.ws^$important
 @@||1fichier.com^$important
 @@||22pixx.xyz^$important
+@@||a.nel.cloudflare.com^$important
 @@||account.adguard.com^$important
 @@||acctcdn.msftauth.net^$important
 @@||aka.ms^$important
@@ -65,6 +66,7 @@
 @@||guts2.sp.f-secure.com^$important
 @@||hcaptcha.com^$important
 @@||help.evernote.com^$important
+@@||httpd.apache.org^$important
 @@||humblebundle-a.akamaihd.net^$important
 @@||ibm.com^$important
 @@||images-na.ssl-images-amazon.com^$important
@@ -134,6 +136,8 @@
 @@||static-assets-prod.epicgames.com^$important
 @@||static-assets-prod.unrealengine.com^$important
 @@||static-cdn.jtvnw.net^$important
+@@||static-dm.akamaized.net^$important
+@@||static.a.upc.ubisoft.com^$important
 @@||static.binglee.com.au^$important
 @@||static.chemistwarehouse.com.au^$important
 @@||static.cyberdrop.me^$important
@@ -148,6 +152,7 @@
 @@||static.zdassets.com^$important
 @@||static2.avg.com^$important
 @@||staticcdn.duckduckgo.com^$important
+@@||staticctf.akamaized.net^$important
 @@||statics-*.onestore.ms^$important
 @@||statics-storeexp-eas-ms-com.akamaized.net^$important
 @@||statics-wcus.onestore.ms^$important
@@ -163,6 +168,7 @@
 @@||telemetry.malwarebytes.com^$important
 @@||tracking.epicgames.com^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@||ubistatic*-a.akamaihd.net^$important
 @@||udomain.dl.sourceforge.net^$important
 @@||update.code.visualstudio.com^$important
 @@||upgr-mmxx-cl-ts.2d8cd.cdn.bitdefender.net^$important
