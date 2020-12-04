@@ -6,6 +6,7 @@
 @@||22pixx.xyz^$important
 @@||a.nel.cloudflare.com^$important
 @@||account.adguard.com^$important
+@@||accounts.google.com^$important
 @@||acctcdn.msftauth.net^$important
 @@||aka.ms^$important
 @@||alomar.emsisoft.com^$important
@@ -14,6 +15,8 @@
 @@||assets.squarespace.com^$important
 @@||au.download.windowsupdate.com^$important
 @@||avatars*.githubusercontent.com^$important
+@@||az416426.vo.msecnd.net^$important
+@@||az725175.vo.msecnd.net^$important
 @@||az764295.vo.msecnd.net^$important
 @@||azure.microsoft.com^$important
 @@||b.cdnst.net^$important
@@ -45,8 +48,10 @@
 @@||dc.services.visualstudio.com^$important
 @@||di.phncdn.com^$important
 @@||dl.delivery.mp.microsoft.com^$important
+@@||docs.google.com^$important
 @@||download.sp.f-secure.com^$important
 @@||download.windowsupdate.com^$important
+@@||drive.google.com^$important
 @@||ebay.com^$important
 @@||ebay.de^$important
 @@||edge.microsoft.com^$important
@@ -62,6 +67,7 @@
 @@||gog-statics.com^$important
 @@||gog.com^$important
 @@||google.com.au^$important
+@@||google.com^$important
 @@||gstatic.com^$important
 @@||guts2.sp.f-secure.com^$important
 @@||hcaptcha.com^$important
@@ -103,6 +109,7 @@
 @@||paypal.com^$important
 @@||pin-river.data.ea.com^$important
 @@||pixhost.to^$important
+@@||play.google.com^$important
 @@||pollserver.lastpass.com^$important
 @@||pornhub.com^$important
 @@||pornone.com^$important
@@ -116,11 +123,13 @@
 @@||raw.githubusercontent.com^$important
 @@||redditstatic.com^$important
 @@||river.data.ea.com^$important
+@@||script.google.com^$important
 @@||secureir.ebaystatic.com^$important
 @@||self.events.data.microsoft.com^$important
 @@||settings-win.data.microsoft.com^$important
 @@||share.dmca.gripe^$important
 @@||sirius.mwbsys.com^$important
+@@||sites.google.com^$important
 @@||slot1-images.wikia.nocookie.net^$important
 @@||slscr.update.microsoft.com^$important
 @@||smartscreen-prod.microsoft.com^$important
@@ -162,6 +171,7 @@
 @@||steamcommunity.com^$important
 @@||steamstore-a.akamaihd.net^$important
 @@||steamuserimages-a.akamaihd.net^$important
+@@||storage.cloud.google.com^$important
 @@||store-site-backend-static.ak.epicgames.com^$important
 @@||store.cloudflare.steamstatic.com^$important
 @@||teams.microsoft.com^$important
