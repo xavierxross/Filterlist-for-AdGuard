@@ -178,6 +178,7 @@
 @@||telemetry.malwarebytes.com^$important
 @@||tracking.epicgames.com^$important
 @@||tsfe.trafficshaping.dsp.mp.microsoft.com^$important
+@@||twitch.tv^$important
 @@||ubistatic*-a.akamaihd.net^$important
 @@||udomain.dl.sourceforge.net^$important
 @@||update.code.visualstudio.com^$important
