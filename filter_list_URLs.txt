@@ -8,6 +8,9 @@ https://github.developerdan.com/hosts/lists/hate-and-junk-extended.txt
 https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt
 https://gitlab.com/andryou/block/raw/master/senpai-strict-compressed-domains
 https://gitlab.com/curben/urlhaus-filter/raw/master/urlhaus-filter-hosts.txt
+https://hosts.anudeep.me/mirror/CoinMiner.txt
+https://hosts.anudeep.me/mirror/adservers.txt
+https://hosts.anudeep.me/mirror/facebook.txt
 https://orca.pet/notonmyshift/domains.txt
 https://phishing.army/download/phishing_army_blocklist.txt
 https://phishing.army/download/phishing_army_blocklist_extended.txt
@@ -84,6 +87,7 @@ https://raw.githubusercontent.com/hl2guide/DNS-Sinkhole-Lists-A2/master/typosqua
 https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/easylist-justdomains.txt
 https://raw.githubusercontent.com/justdomains/blocklists/master/lists/nocoin-justdomains.txt
+https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/adguard.txt
 https://raw.githubusercontent.com/marcusminus/Orthrus-BlockList/master/blocklist.txt
 https://raw.githubusercontent.com/merkleID/covid-domains/master/full-domains-list.txt
 https://raw.githubusercontent.com/mhhakim/pihole-blocklist/master/list.txt
@@ -105,6 +109,7 @@ https://raw.githubusercontent.com/soteria-nou/domain-list/master/widgets.txt
 https://raw.githubusercontent.com/stamparm/blackbook/master/blackbook.txt
 https://raw.githubusercontent.com/stamparm/maltrail/master/trails/static/suspicious/pua.txt
 https://raw.githubusercontent.com/stonecrusher/filterlists-pihole/master/watchlist-internet-ph.txt
+https://raw.githubusercontent.com/tg12/pihole-phishtank-list/master/list/phish_domains.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/blacklist.txt
 https://raw.githubusercontent.com/xlimit91/xlimit91-block-list/master/regex.list
 https://theantisocialengineer.com/AntiSocial_Blacklist_Community_V1.txt
