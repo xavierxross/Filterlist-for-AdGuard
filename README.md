@@ -1,4 +1,4 @@
-# Filterlist for AdGuard 2.4
+# Filterlist for AdGuard 2.4 🖥💟🛡
 
 💚 This repo is actively maintained
 
