@@ -4,6 +4,8 @@
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
+## About
+
 An aggressive filter-list that consolidates over 120 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Includes the official **AdGuardSDNSFilter**
@@ -15,6 +17,7 @@ It blocks:
 * crypto-locker, shock, drug, fake, fake news, and ransomware websites
 * scam, spam, suspicious, and typosquatting websites
 * data miners, invasive telemetry, and phishing websites
+* social media junk and various CDNs
 
 > VITAL: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: `@@||nexusmods.com^$important`
