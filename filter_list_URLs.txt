@@ -1,6 +1,8 @@
 https://adaway.org/hosts.txt
 https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+https://blocklist.cyberthreatcoalition.org/vetted/domain.txt
 https://dbl.oisd.nl/
+https://fluffy-blocklist.skcat.tk/domains
 https://github.com/missdeer/blocklist/blob/master/toblock-without-shorturl.lst?raw=true
 https://github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt
 https://github.developerdan.com/hosts/lists/amp-hosts-extended.txt
@@ -24,6 +26,8 @@ https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Mining%20pa
 https://raw.githubusercontent.com/Amdromeda/Blocklist-Pi-Hole/master/Windows%20telemetry.txt
 https://raw.githubusercontent.com/BlackJack8/iOSAdblockList/master/Hosts.txt
 https://raw.githubusercontent.com/DRSDavidSoft/additional-hosts/master/domains/blacklist/adservers-and-trackers.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AdGuard%20Home%20Compilation%20List/AdGuardHomeCompilationList.txt
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GameConsoleAdblockList.txt
 https://raw.githubusercontent.com/PebbleOG/pihole-regex/master/regex.list
 https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/android-tracking.txt
 https://raw.githubusercontent.com/PoorPocketsMcNewHold/steamscamsites/master/steamscamsite.txt
@@ -68,10 +72,12 @@ https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/avg-avast-
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/facebook-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/hola-luminati-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/huawei-trackers.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/instagram-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smart-tv-ads-tracking.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/smartphone-ads-tracking.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/spotify-ads-tracking.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/tiktok-full-block-ftpihole.txt
+https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/whatsapp-full-block.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/windows10-spying-erm-i-mean-telemetry-lol.txt
 https://raw.githubusercontent.com/ftpmorph/ftpihole/master/blocklists/xiaomi-ads-tracking.txt
 https://raw.githubusercontent.com/genediazjr/nopelist/master/nopelist.txt
