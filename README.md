@@ -4,7 +4,7 @@
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
-## About
+## About ℹ
 
 An aggressive filter-list that consolidates over 120 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
@@ -24,7 +24,7 @@ e.g: `@@||nexusmods.com^$important`
 
 As of version 2.4 the list is more cleaned up, optimized and better than ever. It includes over 110 lists.
 
-## News
+## News 📰
 
 Version 2.4 is released.
 
