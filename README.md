@@ -4,7 +4,7 @@
 
 ![Logo](https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/Screenshots/Logo_AG.png)
 
-An aggressive filter-list that consolidates over 110 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
+An aggressive filter-list that consolidates over 120 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Includes the official **AdGuardSDNSFilter**
 * The final blocklist is cleaned, sorted and then duplicates have been removed
