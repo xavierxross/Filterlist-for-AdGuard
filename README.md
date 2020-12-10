@@ -6,7 +6,7 @@
 
 ## About ℹ
 
-An aggressive filter-list that consolidates over 120 lists for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
+An aggressive filter-list that consolidates over __120 lists__ for use in AdGuard Home (https://github.com/AdguardTeam/AdguardHome).
 
 * Includes the official **AdGuardSDNSFilter**
 * The final blocklist is cleaned, sorted and then duplicates have been removed
@@ -22,7 +22,7 @@ It blocks:
 > VITAL: The list is very aggressive so please ensure that you add your own "Custom filtering rules" for domains you want to allow.
 e.g: `@@||nexusmods.com^$important`
 
-As of version 2.4 the list is more cleaned up, optimized and better than ever. It includes over 110 lists.
+As of version 2.4 the list is more cleaned up, optimized and better than ever
 
 ## News 📰
 
