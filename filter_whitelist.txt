@@ -51,6 +51,7 @@
 @@||docs.google.com^$important
 @@||download.sp.f-secure.com^$important
 @@||download.windowsupdate.com^$important
+@@||downloads.vivaldi.com^$important
 @@||drive.google.com^$important
 @@||ebay.com^$important
 @@||ebay.de^$important
